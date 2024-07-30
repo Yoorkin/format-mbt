@@ -1,4 +1,4 @@
-# Yoorkin/format
+# format
 
 ```moonbit
 let str = "Hello, {}! Today is {}."
